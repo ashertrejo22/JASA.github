@@ -65,16 +65,16 @@ carácter no reconocido.
 
 <!-- TODO: completa esta sección antes de entregar. -->
 
-- Resultado final de las pruebas:
-- Decisión tomada sobre una regla léxica:
-- Estimación inicial:
-- Tiempo real:
+- Resultado final de las pruebas: Las pruebas se ejecutaron de manera correcta
+- Decisión tomada sobre una regla léxica: Se añadió el guion bajo (_) en la aserción negativa (?![A-Za-z0-9_]) para todas las palabras reservadas. Esto se decidió para evitar conflictos con la nueva regla de LOC, asegurando que identificadores como int_contador no se confundan parcialmente con la palabra reservada int.
+- Estimación inicial: 3.5hrs
+- Tiempo real: 2hrs
 
 ## Antes de entregar
 
-- [ ] El repositorio es privado y da acceso al equipo y a `manu-msr`.
-- [ ] El equipo tiene como máximo tres integrantes.
-- [ ] Las pruebas de IMP y de IMP++ pasan.
-- [ ] No queda ningún `@unittest.skip` ni `TODO`.
-- [ ] Se agregó un caso válido y uno con error léxico.
-- [ ] `requirements.txt` conserva la versión de Lark.
+- [x] El repositorio es privado y da acceso al equipo y a `manu-msr`.
+- [x] El equipo tiene como máximo tres integrantes.
+- [x] Las pruebas de IMP y de IMP++ pasan.
+- [x] No queda ningún `@unittest.skip` ni `TODO`.
+- [x] Se agregó un caso válido y uno con error léxico.
+- [x] `requirements.txt` conserva la versión de Lark.
