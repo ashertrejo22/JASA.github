@@ -13,7 +13,7 @@ Se trabaja en equipos de una a tres personas.
 - Asher Santiago Trejo Olivares (Ashes23)
 - Juan Arturo González Gómez (JuanArturo23)
 - Enlace al repositorio privado: https://github.com/ashertrejo22/JASA.git
-- Estado de la invitación a `manu-msr`:
+- Estado de la invitación a `manu-msr`: pendiente
 
 ## Preparación
 
